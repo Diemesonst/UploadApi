@@ -37,9 +37,5 @@ H2 em memória
 
 Console: http://localhost:9000/@db
 
-👨‍💻 Feito por Diemesonst
+👨‍💻 Feito por Diemesnst
 
-
----
-
-👉 Quer que eu já gere esse `README.md` como **arquivo pronto** pra você só colocar dentro do repo
